@@ -26,18 +26,12 @@ Currently, I'm working as an **AI Intern at GMV**, while continuing to build pro
 ## 💼 Experience
 
 ### 🤖 AI Intern — GMV
-**Madrid · September 2026 – Present**
+**Madrid · July 2026 – Present**
 
 Currently working in Artificial Intelligence at GMV.
 
 ---
 
-### 🤖 AI Intern — GMV
-**Madrid · July 2026 – August 2026**
-
-AI internship experience at GMV.
-
----
 
 ### 📊 Data & AI Intern — Budimex · Ferrovial Group
 **Warsaw, Poland · July 2025 – August 2025**
